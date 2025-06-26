@@ -1,0 +1,14 @@
+# Build output
+build
+dist
+coverage
+
+# Dependencies
+node_modules
+
+# Lock files
+package-lock.json
+yarn.lock
+
+# Other generated or config files you don't want touched
+# .env
